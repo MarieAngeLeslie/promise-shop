@@ -1,0 +1,19 @@
+{
+  "name": "promise-shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "solution.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarieAngeLeslie/promise-shop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarieAngeLeslie/promise-shop/issues"
+  },
+  "homepage": "https://github.com/MarieAngeLeslie/promise-shop#readme"
+}
